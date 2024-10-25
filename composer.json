@@ -1,0 +1,9 @@
+{
+    "name": "alex/know-screen-resolution",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
